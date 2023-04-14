@@ -1,0 +1,18 @@
+# RESET-PASSWORD APPLICATION
+---
+
+A simple self-service password reset application that utilizes Windows Active Directory and DUO MFA.
+
+## Run the app
+---
+
+```bash
+./scripts/run.sh
+```
+
+### Stop the app
+---
+
+```bash
+./scripts/stop.sh
+```
